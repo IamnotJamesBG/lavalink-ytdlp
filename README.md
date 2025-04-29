@@ -1,1 +1,1 @@
-![](https://jitpack.io/v/IamnotJamesBG/lavalink-ytdlp.svg)
+~~~![](https://jitpack.io/v/IamnotJamesBG/lavalink-ytdlp.svg)~~~
